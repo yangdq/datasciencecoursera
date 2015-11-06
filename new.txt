@@ -1,4 +1,3 @@
-# Level One
 ## Level Two
 ### Level Three
 #### Level Four
